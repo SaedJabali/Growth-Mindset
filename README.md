@@ -4,4 +4,5 @@
 * Do my best and exert effort.
 * _Challenge_ and do not be afraid of failure.
 * **Accept** critisicm and learn from it to do better.
-And here is my repo link [M Repo]
+
+And here is my repo link. [My Repo](https://saedjabali.github.io/Growth-Mindset)
